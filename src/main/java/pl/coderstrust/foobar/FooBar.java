@@ -8,7 +8,7 @@ public class FooBar {
             String text = "" + i;
 
             if ((i % 3) == 0) {
-                text = i + " Foo";
+                text = i + " Fooboo";
             }
 
             if ((i % 5) == 0) {
