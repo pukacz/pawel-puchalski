@@ -1,1 +1,1 @@
-# solutions-7-pawel-puchalski
+pawel-puchalski
